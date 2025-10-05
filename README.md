@@ -3,4 +3,5 @@
 ## References
 
 ## Videos + images
-[!HEK_Mutant_Inductions_2025-09-10.mp4]
+<video src="HEK_Mutant_Inductions_2025-09-10.mp4" width="320" height="240" controls></video>
+
